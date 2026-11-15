@@ -1,0 +1,32 @@
+{
+  "name": "back-end-practice",
+  "version": "1.0.0",
+  "description": "this is a backend server",
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "nodemon",
+    "cors",
+    "mongoose",
+    "mongodb"
+  ],
+  "homepage": "https://github.com/Janaranjan33/backend-practice#readme",
+  "bugs": {
+    "url": "https://github.com/Janaranjan33/backend-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janaranjan33/backend-practice.git"
+  },
+  "license": "ISC",
+  "author": "janaranjan",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
